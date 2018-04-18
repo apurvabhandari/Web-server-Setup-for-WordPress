@@ -1,6 +1,6 @@
 # Web-server-Setup-for-WordPress
 Ubuntu Web Server Setup for WordPress
-This script is written for Ubunt only.
+This script is written for Ubuntu only.
 Please run this script with root privileges on Ubuntu.
 It is mainly used for the setting of the Wordpress setup on Ubuntu machine with all dependencies.
 For running of the script please make it executable.
